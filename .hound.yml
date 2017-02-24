@@ -1,3 +1,4 @@
+jshint: false
 eslint:
   enabled: true
   config_file: style/config/.eslintrc.json

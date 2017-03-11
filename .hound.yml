@@ -1,5 +1,5 @@
 jshint: 
-  enable: false
+  enabled: false
 eslint:
   enabled: true
   config_file: style/config/.eslintrc.json
